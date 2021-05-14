@@ -1,4 +1,6 @@
 # HotelManagement_GUI_Application
+# Front Page
+<p> It is the front page in which there is a button by clicking on this button you will directly reach at the login page.</p>
 <img src="frontpage.png" alt="">
 <img src="login_page.png" alt="">
 <img src="main_page.png" alt="">
