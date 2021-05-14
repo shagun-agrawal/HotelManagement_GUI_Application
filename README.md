@@ -6,13 +6,35 @@
 <p>Here is the login page in which you have to enter the admin password <br>
 If the password and username will be correct then it will through you on the main page </p>
 <img src="login_page.png" alt="">
+<p>Here is the main page of the project in which there are three menu item <br>First is reception<br>Second is add employ<br>Third is remove employ<br>
+If the password and username will be correct then it will through you on the main page </p>
 <img src="main_page.png" alt="">
+<p>Here is the login page in which you have to enter the admin password <br>
+If the password and username will be correct then it will through you on the main page </p>
 <img src="reception.png" alt="">
+<p>Here is the login page in which you have to enter the admin password <br>
+If the password and username will be correct then it will through you on the main page </p>
 <img src="room_information.png" alt="">
+<p>Here is the login page in which you have to enter the admin password <br>
+If the password and username will be correct then it will through you on the main page </p>
 <img src="room_status.png" alt="">
+<p>Here is the login page in which you have to enter the admin password <br>
+If the password and username will be correct then it will through you on the main page </p>
 <img src="costumer_form.png" alt="">
+<p>Here is the login page in which you have to enter the admin password <br>
+If the password and username will be correct then it will through you on the main page </p>
 <img src="chack_status.png" alt="">
+<p>Here is the login page in which you have to enter the admin password <br>
+If the password and username will be correct then it will through you on the main page </p>
 <img src="add_room.png" alt="">
+<p>Here is the login page in which you have to enter the admin password <br>
+If the password and username will be correct then it will through you on the main page </p>
 <img src="add_employ.png" alt="">
+<p>Here is the login page in which you have to enter the admin password <br>
+If the password and username will be correct then it will through you on the main page </p>
 <img src="add_driver.png" alt="">
+<p>Here is the login page in which you have to enter the admin password <br>
+If the password and username will be correct then it will through you on the main page </p>
 <img src="check_out.png" alt="">
+<p>Here is the login page in which you have to enter the admin password <br>
+If the password and username will be correct then it will through you on the main page </p>
