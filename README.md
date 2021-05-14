@@ -17,9 +17,9 @@ If the password and username will be correct then it will through you on the mai
   <br>6->Update Room Status
   <br>7->Search For Room Availablity For Costumer
   <br>8->Pick Up Services For Special Costumer
-  <br>9->Department Status
-If the password and username will be correct then it will through you on the main page </p>
+  <br>9->Department Status </p>
 <img src="reception.png" alt="">
+<h1>Room Information</h1>
 <p>Here is the login page in which you have to enter the admin password <br>
 If the password and username will be correct then it will through you on the main page </p>
 <img src="room_information.png" alt="">
