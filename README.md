@@ -2,7 +2,7 @@
 # Front Page
 <p> It is the front page in which there is a button by clicking on this button you will directly reach at the login page.</p>
 <img src="frontpage.png" alt="">
-# Login Page
+<h1>Login Page</h1>
 <p>Here is the login page in which you have to enter the admin password <br>
 If the password and username will be correct then it will through you on the main page </p>
 <img src="login_page.png" alt="">
