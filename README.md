@@ -6,6 +6,7 @@
 <p>Here is the login page in which you have to enter the admin password <br>
 If the password and username will be correct then it will through you on the main page </p>
 <img src="login_page.png" alt="">
+<h1>Main Page<.h1>
 <p>Here is the main page of the project in which there are three menu item <br>1>-First is reception<br>2->Second is add employ<br>3->Third is remove employ<br>
 If the password and username will be correct then it will through you on the main page </p>
 <img src="main_page.png" alt="">
