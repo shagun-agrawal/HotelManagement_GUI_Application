@@ -23,12 +23,21 @@ If the password and username will be correct then it will through you on the mai
 <p>Here is the room information page where you can check all the information of the rooms in the hotel. <br>
 Room Information like -> (Room Number, Room Availablity, Clean Status, Room Price, Bad Type(Single Bad or Double Bad) )</p>
 <img src="room_information.png" alt="">
-<p>This is the room status page where <br>
-If the password and username will be correct then it will through you on the main page </p>
+<h1>Room Status Page</h1>
+<p>This is the room status page where you can chack the room status and you can also update the room status.<br>
+Firstly you have to choose the availabe costumer id then press the check button then you will get the room number, availablity of the room and clean status of the room..</p>
 <img src="room_status.png" alt="">
-<p>Here is the login page in which you have to enter the admin password <br>
-If the password and username will be correct then it will through you on the main page </p>
+<h1>New Costumer Entry Page</h1>
+<p>Here is the new costumer entry form. Where you have to mention all the information of the costumer. <br>
+ (Information Can Be Like)<br>
+ <br>1->Costumer Id (Adhar card, Pan Card, Driving Licence, Passport etc)
+  <br>2->Costumer Id Number <br>3->Name of the costumer<br>4->Costumer Gender
+  <br>5->Country Of the costumer
+  <br>6->Allocated Room Number
+  <br>7->Chacked In
+  <br>8->And Deposite Ammount
 <img src="costumer_form.png" alt="">
+ 
 <p>Here is the login page in which you have to enter the admin password <br>
 If the password and username will be correct then it will through you on the main page </p>
 <img src="chack_status.png" alt="">
