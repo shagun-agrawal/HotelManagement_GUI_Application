@@ -23,7 +23,7 @@ If the password and username will be correct then it will through you on the mai
 <p>Here is the room information page where you can check all the information of the rooms in the hotel. <br>
 Room Information like -> (Room Number, Room Availablity, Clean Status, Room Price, Bad Type(Single Bad or Double Bad) )</p>
 <img src="room_information.png" alt="">
-<p>Here is the login page in which you have to enter the admin password <br>
+<p>This is the room status page where <br>
 If the password and username will be correct then it will through you on the main page </p>
 <img src="room_status.png" alt="">
 <p>Here is the login page in which you have to enter the admin password <br>
