@@ -37,21 +37,21 @@ Firstly you have to choose the availabe costumer id then press the check button 
   <br>7->Chacked In
   <br>8->And Deposite Ammount
 <img src="costumer_form.png" alt="">
- 
+<!--  
 <p>Here is the login page in which you have to enter the admin password <br>
-If the password and username will be correct then it will through you on the main page </p>
+If the password and username will be correct then it will through you on the main page </p> -->
 <img src="chack_status.png" alt="">
-<p>Here is the login page in which you have to enter the admin password <br>
-If the password and username will be correct then it will through you on the main page </p>
+<!-- <p>Here is the login page in which you have to enter the admin password <br> -->
+<!-- If the password and username will be correct then it will through you on the main page </p> -->
 <img src="add_room.png" alt="">
-<p>Here is the login page in which you have to enter the admin password <br>
-If the password and username will be correct then it will through you on the main page </p>
+<!-- <p>Here is the login page in which you have to enter the admin password <br> -->
+<!-- If the password and username will be correct then it will through you on the main page </p> -->
 <img src="add_employ.png" alt="">
-<p>Here is the login page in which you have to enter the admin password <br>
-If the password and username will be correct then it will through you on the main page </p>
+<!-- <p>Here is the login page in which you have to enter the admin password <br> -->
+<!-- If the password and username will be correct then it will through you on the main page </p> -->
 <img src="add_driver.png" alt="">
-<p>Here is the login page in which you have to enter the admin password <br>
-If the password and username will be correct then it will through you on the main page </p>
+<!-- <p>Here is the login page in which you have to enter the admin password <br> -->
+<!-- If the password and username will be correct then it will through you on the main page </p> -->
 <img src="check_out.png" alt="">
-<p>Here is the login page in which you have to enter the admin password <br>
-If the password and username will be correct then it will through you on the main page </p>
+<!-- <p>Here is the login page in which you have to enter the admin password <br> -->
+<!-- If the password and username will be correct then it will through you on the main page </p> -->
